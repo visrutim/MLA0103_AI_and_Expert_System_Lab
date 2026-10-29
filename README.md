@@ -1,5 +1,5 @@
 MLA01 - Artificial Intelligence and Expert Systems Laboratory
-Python experiment collection based on the 27 experiments in the supplied PDF.
+Python experiment collection based on the 27 experiments Questions provided
 
 Run:
   python 01_breadth_first_search.py
